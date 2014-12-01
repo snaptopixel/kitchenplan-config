@@ -1,7 +1,6 @@
 recipes:
     global:
         - dotfiles::gitconfig
-        - applications::ssh_config
     mac_os_x:
         - applications::sublime_text_3
         - osxdefaults::set_terminal_profile
@@ -27,19 +26,14 @@ recipes:
         - osxdefaults::finder_disable_the_warning_when_changing_a_file_extension
         - osxdefaults::finder_search_the_current_folder_by_default
         - osxdefaults::finder_unhide_home
-        - osxdefaults::disable_auto-correct
 attributes:
-    sublime_text_3:
-        packages:
-            -
-            name: Sublime Grunt
-            source: https://github.com/tvooo/sublime-grunt/
-            branch: master
     homebrewalt:
         apps:
             - git
             - git-extras
         cask_apps:
+            - imageoptim
+            - imagealpha
             - sourcetree
     nodejs:
         apps:

@@ -1,0 +1,18 @@
+groups:
+    - developer
+recipes:
+    mac_os_x:
+        - sudoalt::default
+        - osxdefaults::set_computer_name
+attributes:
+    git:
+        name: Derick Brown
+        email: derick.brown@lightspeedvt.com
+    osxdefaults:
+        computername: Derick-Brown
+    authorization:
+        sudo:
+            users:
+                - edit11
+            passwordless: true
+            include_sudoers_d: true
