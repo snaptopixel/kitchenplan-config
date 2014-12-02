@@ -22,7 +22,7 @@ attributes:
         name: Casey Corcoran
         email: casey.corcoran@lightspeedvt.com
     osxdefaults:
-        computername: SnapToPixel
+        computername: Snap-To-Pixel
     authorization:
         sudo:
             users:
