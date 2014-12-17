@@ -35,7 +35,6 @@ attributes:
             - imageoptim
             - imagealpha
             - sourcetree
-            - totalterminal
     nodejs:
         apps:
             - uglify-js
