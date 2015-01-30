@@ -1,0 +1,15 @@
+groups:
+    - developer
+recipes:
+    mac_os_x:
+        - sudoalt::default
+attributes:
+    git:
+        name: Dmitriy Marchenko
+        email: dmitriy.marchenko@lightspeedvt.com
+    authorization:
+        sudo:
+            users:
+                - atari
+            passwordless: true
+            include_sudoers_d: true
