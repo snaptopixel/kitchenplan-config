@@ -43,6 +43,8 @@ attributes:
             - transmit
             - sourcetree
             - screenhero
+        cask_fonts:
+            - font-source-code-pro
     nodejs:
         apps:
             - uglify-js
@@ -50,3 +52,5 @@ attributes:
             - bower
             - grunt
             - grunt-cli
+    gems:
+        - sass
