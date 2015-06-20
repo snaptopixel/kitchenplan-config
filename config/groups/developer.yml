@@ -44,7 +44,7 @@ attributes:
             - sourcetree
             - screenhero
         cask_fonts:
-            - font-source-code-pro
+            - source-code-pro
     nodejs:
         apps:
             - uglify-js
