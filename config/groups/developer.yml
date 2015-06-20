@@ -32,8 +32,15 @@ attributes:
             - git
             - git-extras
         cask_apps:
-            - imageoptim
-            - imagealpha
+            - slack
+            - virtualbox
+            - google-chrome
+            - firefox
+            - github
+            - totalterminal
+            - appcleaner
+            - adobe-creative-cloud
+            - transmit
             - sourcetree
     nodejs:
         apps:
@@ -42,5 +49,3 @@ attributes:
             - bower
             - grunt
             - grunt-cli
-    gems:
-        - sass
