@@ -21,6 +21,7 @@ attributes:
     homebrewalt:
         cask_apps:
             - virtualhostx
+            - intel-xdk
     git:
         name: Casey Corcoran
         email: casey.corcoran@lightspeedvt.com
