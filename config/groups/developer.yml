@@ -43,6 +43,7 @@ attributes:
             - transmit
             - sourcetree
             - screenhero
+            - teamviewer
         cask_fonts:
             - source-code-pro
     nodejs:
