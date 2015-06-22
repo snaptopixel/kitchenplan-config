@@ -17,6 +17,7 @@ recipes:
         - osxdefaults::menu_show_clock_with_date
         - osxdefaults::set_computer_name
         - osxdefaults::reduce_transparency
+        - osxdefaults::dock_set_magnification_on
 attributes:
     homebrewalt:
         cask_apps:
@@ -28,7 +29,7 @@ attributes:
     osxdefaults:
         computername: Snap-To-Pixel
         dock:
-            tilesize: 52
+            tilesize: 48
     authorization:
         sudo:
             users:
