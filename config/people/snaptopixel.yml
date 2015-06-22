@@ -15,12 +15,19 @@ recipes:
         - osxdefaults::menu_add_battery_percentage
         - osxdefaults::menu_show_clock_with_date
         - osxdefaults::set_computer_name
+        - osxdefaults::reduce_transparency
+        - osxdefaults::increase_autohide_speed
 attributes:
+    homebrewalt:
+        cask_apps:
+            - virtualhostx
     git:
         name: Casey Corcoran
         email: casey.corcoran@lightspeedvt.com
     osxdefaults:
         computername: Snap-To-Pixel
+        dock:
+            tilesize: 52
     authorization:
         sudo:
             users:
