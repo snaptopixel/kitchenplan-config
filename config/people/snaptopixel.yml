@@ -22,7 +22,11 @@ attributes:
     homebrewalt:
         cask_apps:
             - virtualhostx
+            - virtualbox
             - intel-xdk
+            - liteicon
+            - spotify
+            - hermes
     git:
         name: Casey Corcoran
         email: casey.corcoran@lightspeedvt.com
