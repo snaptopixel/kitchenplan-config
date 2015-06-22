@@ -17,6 +17,7 @@ recipes:
         - osxdefaults::menu_show_clock_with_date
         - osxdefaults::set_computer_name
         - osxdefaults::reduce_transparency
+        - osxdefaults::dock_wipe_all_default_app_icons_from_dock
 attributes:
     homebrewalt:
         cask_apps:
