@@ -25,6 +25,7 @@ attributes:
             - virtualbox
             - intel-xdk
             - liteicon
+            - sketch
             - spotify
             - hermes
     git:
