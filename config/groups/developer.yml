@@ -33,7 +33,6 @@ attributes:
             - git-extras
         cask_apps:
             - slack
-            - virtualbox
             - google-chrome
             - firefox
             - github
