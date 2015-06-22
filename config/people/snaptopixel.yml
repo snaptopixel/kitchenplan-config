@@ -12,11 +12,11 @@ recipes:
         - osxdefaults::dock_show_indicator_lights_for_open_applications_in_the_dock
         - osxdefaults::dock_enable_highlight_hover_effect_for_the_grid_view_of_a_stack
         - osxdefaults::dock_remove_the_auto-hiding_dock_delay
+        - osxdefaults::dock_increase_autohide_speed
         - osxdefaults::menu_add_battery_percentage
         - osxdefaults::menu_show_clock_with_date
         - osxdefaults::set_computer_name
         - osxdefaults::reduce_transparency
-        - osxdefaults::increase_autohide_speed
 attributes:
     homebrewalt:
         cask_apps:
