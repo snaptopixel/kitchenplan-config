@@ -31,6 +31,7 @@ attributes:
         apps:
             - git
             - git-extras
+            - bash-completion
         cask_apps:
             - slack
             - google-chrome

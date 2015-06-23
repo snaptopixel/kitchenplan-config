@@ -18,6 +18,7 @@ recipes:
         - osxdefaults::set_computer_name
         - osxdefaults::reduce_transparency
         - osxdefaults::dock_set_magnification_on
+        - osxdefaults::disable_auto-correct
 attributes:
     homebrewalt:
         cask_apps:
