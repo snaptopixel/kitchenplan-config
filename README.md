@@ -31,7 +31,7 @@ This is a Kitchenplan configuration repository. This repository contains all con
 `sudo chown -R $USER:admin /usr/local /Library/Caches/Homebrew /Applications`
 
 1. Install All The Things!  
-**Note:** When the installer gets to "TotalTerminal" you will get an alert with the options to "Cancel" or "Close", you want to cancel, so the installer can finish.
+**Note:** When the installer gets to "TotalTerminal" you will get an alert with the options to "Cancel" or "Close", you want to cancel, so the installer can finish.  
 `sudo kitchenplan provision`
 
 1. Install SASS  
@@ -41,6 +41,7 @@ Unfortunately, there is currently a bug preventing the auto-install of the SASS 
 ## Totally Random OSX Stuff That I Don't Have A Place For
 
 ### Mail.app :heart: Gmail Accounts
+I really wanted to use Mail.app with my Gmail accounts, but it can be tricky. The following things helped me get it set up pretty nicely:
 
 - Any Gmail labels with a `/` in them will cause Mail.app to eat cpu, spin up fans and basically go bonkers. Quit Mail.app, rename them in Gmail's web interface and reopen mail.
 
