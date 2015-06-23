@@ -29,6 +29,7 @@ attributes:
             - sketch
             - spotify
             - hermes
+            - beyond-compare
     git:
         name: Casey Corcoran
         email: casey.corcoran@lightspeedvt.com
