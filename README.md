@@ -27,12 +27,16 @@ This is a Kitchenplan configuration repository. This repository contains all con
 1. Answer `y` for config repository and use the following url:  
 `https://github.com/lightspeedvt/boilerplate-config.git`
 
-1. "Own" a few directories to prevent permission errors
+1. "Own" a few directories to prevent permission errors  
 `sudo chown -R $USER:admin /usr/local /Library/Caches/Homebrew /Applications`
 
 1. Install All The Things!  
 **Note:** When the installer gets to "TotalTerminal" you will get an alert with the options to "Cancel" or "Close", you want to cancel, so the installer can finish.
 `sudo kitchenplan provision`
+
+1. Install SASS  
+Unfortunately, there is currently a bug preventing the auto-install of the SASS Preprocessor. Just issue one last command in the terminal to install it:  
+`gem install sass`
 
 ## Totally Random OSX Stuff That I Don't Have A Place For
 
