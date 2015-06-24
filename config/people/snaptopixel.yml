@@ -30,6 +30,8 @@ attributes:
             - spotify
             - hermes
             - beyond-compare
+            - dropbox
+            - bettertouchtool
     git:
         name: Casey Corcoran
         email: casey.corcoran@lightspeedvt.com
