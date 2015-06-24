@@ -1,8 +1,18 @@
-# Kitchenplan Configuration
+# Bootstrap Your Mac
 
-This is a Kitchenplan configuration repository. This repository contains all configuration to install and configure our OSX workstations. More information about Kitchenplan and on how to use it can be found in the [Kitchenplan README](https://github.com/kitchenplan/kitchenplan).
+This is a Kitchenplan configuration repository. This repository contains all configuration to install and configure OSX workstations. More information about Kitchenplan and on how to use it can be found in the [Kitchenplan README](https://github.com/kitchenplan/kitchenplan).
 
-1. Open Terminal
+## Customizing Your Setup
+
+If you look in the people directory, you'll see some "YAML" config files for different users. These must match your OSX username (typically the name of your "Home" folder). You can add one for yourself or edit an existing one if you'd like.
+
+The easiest way to get it going is to look at the existing files, especially "snaptopixel" since it is the most customized.
+
+Once you've got it configured to your liking, follow the steps below.
+
+## Setup and Install Directions
+
+1. Open Terminal (Hit Cmd+Space, type Terminal then ENTER)
 
 1. Install Homebrew  
 **Note:** This will prompt to install "XCode Command-line tools" - Do it!  
