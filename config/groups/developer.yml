@@ -44,6 +44,7 @@ attributes:
             - transmit
             - sourcetree
             - screenhero
+            - the-unarchiver
         cask_fonts:
             - source-code-pro
     nodejs:
