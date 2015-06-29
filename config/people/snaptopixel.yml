@@ -19,6 +19,7 @@ recipes:
         - osxdefaults::reduce_transparency
         - osxdefaults::dock_set_magnification_on
         - osxdefaults::disable_auto-correct
+        - osxdefaults::dark-mode
 attributes:
     homebrewalt:
         cask_apps:
