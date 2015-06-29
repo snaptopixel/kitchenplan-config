@@ -34,6 +34,7 @@ attributes:
             - git-flow
             - bash-completion
             - python
+            - mkdocs
         cask_apps:
             - slack
             - google-chrome
