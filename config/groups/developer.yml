@@ -33,6 +33,7 @@ attributes:
             - git-extras
             - git-flow
             - bash-completion
+            - python
         cask_apps:
             - slack
             - google-chrome
