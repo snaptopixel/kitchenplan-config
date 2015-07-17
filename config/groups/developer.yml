@@ -54,6 +54,7 @@ attributes:
             - uglifycss
             - bower
             - grunt
+            - grunt-init
             - grunt-cli
             - gulp
             - stylus
