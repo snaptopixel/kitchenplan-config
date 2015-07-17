@@ -60,5 +60,6 @@ attributes:
             - stylus
             - bower
             - browser-sync
+            - yo
     gems:
         - sass
