@@ -59,5 +59,6 @@ attributes:
             - gulp
             - stylus
             - bower
+            - browser-sync
     gems:
         - sass
