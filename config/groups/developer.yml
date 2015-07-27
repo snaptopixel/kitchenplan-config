@@ -61,5 +61,6 @@ attributes:
             - bower
             - browser-sync
             - yo
+            - jscs
     gems:
         - sass
