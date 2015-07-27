@@ -34,6 +34,7 @@ attributes:
             - bettertouchtool
             - charles
             - dropbox
+            - licecap
     git:
         name: Casey Corcoran
         email: casey.corcoran@lightspeedvt.com
