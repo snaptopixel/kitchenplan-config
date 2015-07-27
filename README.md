@@ -35,7 +35,7 @@ Once you've got it configured to your liking, follow the steps below.
 `kitchenplan setup`
 
 1. Answer `y` for config repository and use the following url:  
-`https://github.com/lightspeedvt/boilerplate-config.git`
+`https://github.com/snaptopixel/kitchenplan-config.git`
 
 1. "Own" a few directories to prevent permission errors  
 `sudo chown -R $USER:admin /usr/local /Library/Caches/Homebrew /Applications`
