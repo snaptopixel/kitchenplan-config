@@ -34,6 +34,7 @@ attributes:
             - bettertouchtool
             - charles
             - bittorrent-sync
+            - recordit
     osxdefaults:
         dock:
             tilesize: 48
