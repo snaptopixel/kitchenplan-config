@@ -33,13 +33,8 @@ attributes:
             - dropbox
             - bettertouchtool
             - charles
-            - dropbox
-            - licecap
-    git:
-        name: Casey Corcoran
-        email: casey.corcoran@lightspeedvt.com
+            - bittorrent-sync
     osxdefaults:
-        computername: Snap-To-Pixel
         dock:
             tilesize: 48
     authorization:
