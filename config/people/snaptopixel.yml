@@ -35,6 +35,7 @@ attributes:
             - charles
             - bittorrent-sync
             - recordit
+            - dash
     osxdefaults:
         dock:
             tilesize: 48
