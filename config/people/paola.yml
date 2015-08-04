@@ -1,0 +1,17 @@
+groups:
+    - developer
+recipes:
+    mac_os_x:
+        - sudoalt::default
+        - osxdefaults::menu_show_clock_with_date
+attributes:
+    homebrewalt:
+        cask_apps:
+            - dropbox
+            - bittorrent-sync
+    authorization:
+        sudo:
+            users:
+                - paola
+            passwordless: true
+            include_sudoers_d: true
