@@ -36,8 +36,8 @@ attributes:
             - bittorrent-sync
             - recordit
             - dash
-            - moom
             - hipchat
+            - pixelmator
     osxdefaults:
         dock:
             tilesize: 48
