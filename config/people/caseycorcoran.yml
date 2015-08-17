@@ -42,6 +42,7 @@ attributes:
             - dash
             - hipchat
             - vmware-fusion
+            - vagrant
     osxdefaults:
         dock:
             tilesize: 48
