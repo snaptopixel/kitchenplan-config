@@ -21,6 +21,14 @@ recipes:
         - osxdefaults::dark-mode
 attributes:
     homebrewalt:
+        apps:
+            - git
+            - git-extras
+            - git-flow
+            - bash-completion
+            - python
+            - go
+            - mercurial
         cask_apps:
             - sketch
             - acorn
@@ -33,6 +41,7 @@ attributes:
             - bittorrent-sync
             - dash
             - hipchat
+            - vmware-fusion
     osxdefaults:
         dock:
             tilesize: 48
