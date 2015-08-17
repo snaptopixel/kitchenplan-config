@@ -1,5 +1,5 @@
 groups:
-    - developer
+    - lean
 recipes:
     mac_os_x:
         - sudoalt::default
@@ -23,10 +23,12 @@ attributes:
     homebrewalt:
         cask_apps:
             - sketch
+            - acorn
+            - screenhero
+            - slack
             - spotify
             - hermes
             - beyond-compare
-            - dropbox
             - bettertouchtool
             - bittorrent-sync
             - dash
