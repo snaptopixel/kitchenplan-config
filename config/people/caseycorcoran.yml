@@ -43,6 +43,7 @@ attributes:
             - hipchat
             - vmware-fusion
             - vagrant
+            - viscosity
     osxdefaults:
         dock:
             tilesize: 48
