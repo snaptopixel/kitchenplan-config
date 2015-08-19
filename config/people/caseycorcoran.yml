@@ -44,7 +44,7 @@ attributes:
             - vmware-fusion
             - vagrant
             - viscosity
-            - github
+            - github-desktop
             - recordit
     osxdefaults:
         dock:
