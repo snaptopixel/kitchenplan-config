@@ -45,6 +45,7 @@ attributes:
             - vagrant
             - viscosity
             - github
+            - recordit
     osxdefaults:
         dock:
             tilesize: 48
